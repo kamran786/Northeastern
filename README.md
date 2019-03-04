@@ -1,4 +1,4 @@
-FinalProject_BostonHealthCare:
+BostonHealthCare:
 
 --This system is designed to reduce the manual work at health care centers.
 
